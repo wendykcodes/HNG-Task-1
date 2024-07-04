@@ -1,0 +1,85 @@
+* {
+    /* background-color: pink; */
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+nav {
+    background-color: purple;
+    padding-bottom: 25px;
+    display: flex;
+    font-size: x-large;
+    
+}
+
+nav div {
+    align-content: right;
+    margin-left: 75%;
+    padding-left: 60px;
+    padding-right: 0;
+    display: inline-block;
+    padding-top: 20px;
+    margin-right: 0;
+    
+}
+
+#intropfp {
+    display: flex;
+    background-color: gainsboro;
+}
+
+#pfp {
+    margin-left: 40%;
+    border: 5px solid pink;
+    margin-top: 20px;
+    width: 50%;
+    min-height: auto;
+}
+
+#name {
+    padding: 20px 0 40px 0;
+    text-decoration: underline;
+    margin: 100px 0 0 50px;
+    
+}
+
+#name:hover {
+    color: plum;
+}
+
+#about {
+    padding: 20px 0 20px 0;
+    margin-left: 20px;
+}
+
+#about p {
+    text-align: center;
+    margin-bottom: 15px;
+    color: purple;
+    padding: 50px 0;
+    font-size: x-large;
+    
+}
+
+#about p :hover {
+    color: plum;
+}
+
+#namee {
+    font-size: large;
+}
+
+#goals {
+    font-size: large;
+
+}
+
+#contact {
+    text-align: center;
+    background-color: darkorchid;
+    margin: 20px 0 0 0;
+    padding: 20px 0 20px 0;
+    color: whitesmoke;
+}
